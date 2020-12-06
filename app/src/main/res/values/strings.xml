@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lifecycle</string>
+    <string name="shared_preferences_settings">Settings</string>
+</resources>
